@@ -1,0 +1,1898 @@
+{
+  "version": 1,
+  "exported": "2026-10-14",
+  "sources": [
+    {
+      "id": "src-powo-cymbopogon-citratus",
+      "title": "Cymbopogon citratus (DC.) Stapf",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Poaceae) and native/introduced range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-momordica-charantia",
+      "title": "Momordica charantia L.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Cucurbitaceae) and native/introduced range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-aloe-vera",
+      "title": "Aloe vera (L.) Burm.f.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Asphodelaceae) and native/introduced range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-moringa-oleifera",
+      "title": "Moringa oleifera Lam.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Moringaceae) and native range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-zingiber-officinale",
+      "title": "Zingiber officinale Roscoe",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Zingiberaceae) and native range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-curcuma-longa",
+      "title": "Curcuma longa L.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Zingiberaceae) and native range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-annona-muricata",
+      "title": "Annona muricata L.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Annonaceae) and native range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-psidium-guajava",
+      "title": "Psidium guajava L.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Myrtaceae) and native range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-hibiscus-sabdariffa",
+      "title": "Hibiscus sabdariffa L.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Name, authorship, family (Malvaceae) and native range verified on the POWO taxon page 2026-10-14. Note: POWO now treats Hibiscus sabdariffa as a synonym of Sabdariffa gossypiifolia following reinstatement of genus Sabdariffa (Hibiscus found polyphyletic); the medicinal literature uniformly uses Hibiscus sabdariffa, which is retained here. Exact taxon URL not preserved in working notes."
+    },
+    {
+      "id": "src-powo-azadirachta-indica",
+      "title": "Azadirachta indica A.Juss.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Meliaceae) and native/introduced range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-piscidia-piscipula",
+      "title": "Piscidia piscipula (L.) Sarg.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Fabaceae) and native range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-petiveria-alliacea",
+      "title": "Petiveria alliacea L.",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Petiveriaceae, APG IV) and native range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-artocarpus-altilis",
+      "title": "Artocarpus altilis (Parkinson) Fosberg",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Moraceae) and native/introduced range verified on the POWO taxon page. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-powo-bryophyllum-pinnatum",
+      "title": "Bryophyllum pinnatum (Lam.) Oken",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Name, authorship, family (Crassulaceae) and native/introduced range verified on the POWO taxon page 2026-10-14. Note: POWO accepts Kalanchoe pinnata (Lam.) Pers. with Bryophyllum pinnatum as a homotypic synonym; Caribbean/TRAMIL literature uses Bryophyllum pinnatum, which is retained here. Exact taxon URL not preserved in working notes."
+    },
+    {
+      "id": "src-powo-passiflora-edulis",
+      "title": "Passiflora edulis Sims",
+      "authors": "Plants of the World Online, Royal Botanic Gardens, Kew",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "database",
+      "accessed": "2026-10-14",
+      "notes": "Accepted name, authorship, family (Passifloraceae) and native/introduced range verified on the POWO taxon page. P. edulis chosen over P. incarnata (southeastern USA native only, no Caribbean distribution) and P. quadrangularis. Exact taxon URL not preserved in working notes; page fetched 2026-10-14."
+    },
+    {
+      "id": "src-tramil-trinidad-2015",
+      "title": "Medicinal plants used in Trinidad and Tobago: a TRAMIL-methodology ethnobotanical survey",
+      "authors": "Clement, Y.N. et al.",
+      "year": 2015,
+      "journal": "Journal of Ethnobiology and Ethnomedicine",
+      "doi": "10.1186/s13002-015-0052-0",
+      "url": "https://doi.org/10.1186/s13002-015-0052-0",
+      "source_type": "ethnobotanical",
+      "accessed": "2026-10-14",
+      "notes": "TRAMIL-methodology survey of 450 households in Trinidad and Tobago. Documents: fevergrass/fever (46 cites), caraille/Momordica/diabetes (7), saffron-hardi/Curcuma/afterbirth (17), ginger/cold & cough (2), aloes/cooling (8), soursop/HBP (8), neem/diabetes (7), gully root/Petiveria/cold & cough (1), breadfruit/HBP (11), passion fruit/P. edulis/HBP (1), barbadine/P. quadrangularis/HBP (9). Guava, hibiscus, moringa, dogwood, Bryophyllum not in this survey."
+    },
+    {
+      "id": "src-tramil-jamaica-2015",
+      "title": "Traditional herbal medicine use in Jamaica: a TRAMIL ethnobotanical survey",
+      "authors": "Picking, D. et al.",
+      "year": 2015,
+      "journal": "Journal of Ethnopharmacology",
+      "doi": "10.1016/j.jep.2015.04.027",
+      "url": "https://doi.org/10.1016/j.jep.2015.04.027",
+      "source_type": "ethnobotanical",
+      "accessed": "2026-10-14",
+      "notes": "TRAMIL survey of Jamaica (J Ethnopharmacol 169:314-327, PMID 25929450). Documents: cerasee/blood cleanse (67 cites), leaf of life/Bryophyllum/cold (51), sinkle bible/Aloe/washout (54), soursop/nerves (83), fever grass/fever (70, TRAMIL-significant), ginger/bellyache (25), guinea hen weed/headache (23)."
+    },
+    {
+      "id": "src-guava-liu-2024",
+      "title": "Traditional uses of Psidium guajava for diarrheal disorders: a multi-country review",
+      "authors": "Liu et al.",
+      "year": 2024,
+      "journal": "Frontiers in Pharmacology",
+      "doi": "10.3389/fphar.2024.1459066",
+      "url": "https://doi.org/10.3389/fphar.2024.1459066",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "Review covering 44 countries including Trinidad and Tobago, Cuba, Guadeloupe and Martinique; documents guava leaf use for diarrhea. PMC11377350."
+    },
+    {
+      "id": "src-guava-gutierrez-2008",
+      "title": "Psidium guajava: a review of its traditional uses, phytochemistry and pharmacology",
+      "authors": "Gutiérrez, R.M.P.; Mitchell, S.; Solis, R.V.",
+      "year": 2008,
+      "journal": "Journal of Ethnopharmacology",
+      "doi": "",
+      "url": "",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "J Ethnopharmacol 117(1):1-27, PMID 18353572. Backup source for guava traditional uses. URL not preserved in working notes."
+    },
+    {
+      "id": "src-hibiscus-toptropicals",
+      "title": "Hibiscus sabdariffa (Roselle) plant profile",
+      "authors": "TopTropicals",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "https://toptropicals.com/catalog/uid/hibiscus_sabdariffa.htm",
+      "source_type": "community",
+      "accessed": "2026-10-14",
+      "notes": "Documents the sorrel Christmas drink tradition in Jamaica and folk antihypertensive use; confirms 'sorrel' as the Jamaican name."
+    },
+    {
+      "id": "src-moringa-mdpi-2017",
+      "title": "Moringa oleifera in Jamaica: nutritional and medicinal review",
+      "authors": "",
+      "year": 2017,
+      "journal": "Plants (MDPI)",
+      "doi": "",
+      "url": "https://www.mdpi.com/2223-7747/6/4/48",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "Documents moringa teas, juices and meals in Jamaican households since the 2000s."
+    },
+    {
+      "id": "src-petiveria-costarica-2006",
+      "title": "Petiveria alliacea: TRAMIL study on traditional uses and safety (Costa Rica)",
+      "authors": "",
+      "year": 2006,
+      "journal": "Revista de Biología Tropical",
+      "doi": "",
+      "url": "https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S0034-77442006000500017",
+      "source_type": "ethnobotanical",
+      "accessed": "2026-10-14",
+      "notes": "Costa Rican TRAMIL study documenting an abortive effect attributed to Petiveria (uterine smooth-muscle contraction); contraindicated in pregnancy. Corroborated for Jamaica."
+    },
+    {
+      "id": "src-cerasee-zhang-2024",
+      "title": "Momordica charantia for glycemic control: systematic review and meta-analysis of randomized controlled trials",
+      "authors": "Zhang et al.",
+      "year": 2024,
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e31126",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e31126",
+      "source_type": "systematic_review",
+      "accessed": "2026-10-14",
+      "notes": "8 RCTs, n=423. FBG -0.85 mmol/L, PPG -2.28 mmol/L, HbA1c -0.38%, total cholesterol -0.38 mmol/L. High heterogeneity; findings conflict with Cochrane review (insufficient evidence) and one 2024 null review. PMID 38784554, PMC11112315."
+    },
+    {
+      "id": "src-ginger-viljoen-2014",
+      "title": "A systematic review and meta-analysis of ginger for nausea and vomiting",
+      "authors": "Viljoen, E. et al.",
+      "year": 2014,
+      "journal": "Nutrition Journal",
+      "doi": "",
+      "url": "https://doi.org/10.1186/1475-2891-13-20",
+      "source_type": "systematic_review",
+      "accessed": "2026-10-14",
+      "notes": "Nutr J 13:20. 12 RCTs, n=1278. Nausea improved; vomiting not significantly reduced. Low-quality evidence overall; no significant safety signal. PMID 24642205, PMC3995184."
+    },
+    {
+      "id": "src-hibiscus-ellis-2022",
+      "title": "Hibiscus sabdariffa for blood pressure: systematic review and meta-analysis",
+      "authors": "Ellis et al.",
+      "year": 2022,
+      "journal": "Nutrition Reviews",
+      "doi": "",
+      "url": "https://doi.org/10.1093/nutrit/nuab104",
+      "source_type": "systematic_review",
+      "accessed": "2026-10-14",
+      "notes": "Nutr Rev 80(6):1723-1737. 17 RCTs; systolic BP -7.10 mmHg vs placebo. PMID 34927694, PMC9086798."
+    },
+    {
+      "id": "src-turmeric-daily-2016",
+      "title": "Efficacy of turmeric extracts and curcumin for alleviating arthritis symptoms: systematic review and meta-analysis",
+      "authors": "Daily, J.W.; Yang, M.; Park, S.",
+      "year": 2016,
+      "journal": "Journal of Medicinal Food",
+      "doi": "",
+      "url": "https://doi.org/10.1089/jmf.2016.3705",
+      "source_type": "systematic_review",
+      "accessed": "2026-10-14",
+      "notes": "J Med Food 19(8):717-729. 8 RCTs; pain VAS -2.04, WOMAC -15.36. DISCLOSURE: first author affiliated with Daily Manufacturing, Inc. (turmeric supplement manufacturer). PMID 27533649, PMC5003001."
+    },
+    {
+      "id": "src-aloe-hekmatpou-2019",
+      "title": "Aloe vera for wound healing: review of clinical trials",
+      "authors": "Hekmatpou, D. et al.",
+      "year": 2019,
+      "journal": "Iranian Journal of Medical Sciences",
+      "doi": "",
+      "url": "",
+      "source_type": "systematic_review",
+      "accessed": "2026-10-14",
+      "notes": "23 clinical trials reviewed; supports complementary use of Aloe vera for burn wound healing. PMC6330525, PMID 30666070. URL not preserved in working notes."
+    },
+    {
+      "id": "src-soursop-moghadamtousi-2015",
+      "title": "Annona muricata (soursop): phytochemistry and anticancer potential",
+      "authors": "Moghadamtousi, S.Z. et al.",
+      "year": 2015,
+      "journal": "International Journal of Molecular Sciences",
+      "doi": "10.3390/ijms160715625",
+      "url": "https://doi.org/10.3390/ijms160715625",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "Int J Mol Sci 16(7):15625-15658. Anticancer evidence limited to in vitro and animal studies; no human trials."
+    },
+    {
+      "id": "src-soursop-lannuzel-2003",
+      "title": "Annonacin neurotoxicity and atypical parkinsonism",
+      "authors": "Lannuzel, A. et al.",
+      "year": 2003,
+      "journal": "Journal of Neurochemistry",
+      "doi": "",
+      "url": "",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "PMID 14675150. Annonacin (from Annonaceae, incl. soursop) is neurotoxic; linked to atypical parkinsonism in Guadeloupe. URL not preserved in working notes."
+    },
+    {
+      "id": "src-petiveria-hernandez-2017",
+      "title": "Petiveria alliacea in a mouse breast-cancer model",
+      "authors": "Hernandez et al.",
+      "year": 2017,
+      "journal": "",
+      "doi": "",
+      "url": "https://link.springer.com/article/10.1186/s12906-023-04109-2",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "Mouse breast-cancer model study of Petiveria alliacea (accessed via BMC protocol page). Preliminary animal evidence only."
+    },
+    {
+      "id": "src-breadfruit-nwokocha-2012",
+      "title": "Hypotensive and bradycardic effects of Artocarpus altilis leaf extract in rats",
+      "authors": "Nwokocha, C.R. et al.",
+      "year": 2012,
+      "journal": "Pharmaceutical Biology",
+      "doi": "",
+      "url": "",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "PMID 22830437. Aqueous breadfruit leaf extract hypotensive and bradycardic in rats (UWI Mona, Jamaica). Animal evidence only. URL not preserved in working notes."
+    },
+    {
+      "id": "src-moringa-stohs-2015",
+      "title": "Moringa oleifera: review of safety and efficacy in human studies",
+      "authors": "Stohs, S.J.; Hartman, M.J.",
+      "year": 2015,
+      "journal": "Phytotherapy Research",
+      "doi": "",
+      "url": "",
+      "source_type": "systematic_review",
+      "accessed": "2026-10-14",
+      "notes": "PMID 25808883, PMC6680322. 5 human studies; anti-hyperglycemic and anti-dyslipidemic effects; no adverse effects reported. Small studies. URL not preserved in working notes."
+    },
+    {
+      "id": "src-kalanchoe-mdpi-review",
+      "title": "Kalanchoe pinnata (Bryophyllum pinnatum): phytochemistry and pharmacology review",
+      "authors": "",
+      "year": null,
+      "journal": "Molecules (MDPI)",
+      "doi": "",
+      "url": "https://www.mdpi.com/1420-3049/31/19/3456",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "Review; preclinical wound-healing evidence is the most extensive. Also documents bufadienolides (cardiac-glycoside poisoning risk)."
+    },
+    {
+      "id": "src-dogwood-webmd",
+      "title": "Jamaican Dogwood: uses, side effects and safety",
+      "authors": "WebMD",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "https://www.webmd.com/vitamins/ai/ingredientmono-682/jamaican-dogwood",
+      "source_type": "institutional",
+      "accessed": "2026-10-14",
+      "notes": "States there is no evidence supporting Jamaican dogwood use or any other use in humans (evidence gap explicitly discussed). Documents rotenone-related toxicity risks."
+    },
+    {
+      "id": "src-neem-oil-toxicity",
+      "title": "Neem oil poisoning: clinical review",
+      "authors": "",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9358515/",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "PMC9358515. Review of neem oil poisoning, esp. pediatric: hepatic toxicity, encephalopathy, seizures."
+    },
+    {
+      "id": "src-passiflora-scielo-2015",
+      "title": "Anxiolytic and antidepressant-like effects of Passiflora edulis leaf extract in mice",
+      "authors": "",
+      "year": 2015,
+      "journal": "Revista Brasileira de Farmacognosia (SciELO)",
+      "doi": "",
+      "url": "https://www.scielo.br/j/rbfar/a/Ms6phR8kXHd9wqV3qpZtNbG/",
+      "source_type": "peer_reviewed",
+      "accessed": "2026-10-14",
+      "notes": "Aqueous Passiflora edulis leaf extract showed anxiolytic and antidepressant-like effects in mice; notes traditional Brazilian use for anxiety and insomnia. Animal evidence only."
+    },
+    {
+      "id": "src-nccih-aloe",
+      "title": "Aloe vera: NCCIH herbs at a glance",
+      "authors": "National Center for Complementary and Integrative Health",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "https://www.nccih.nih.gov/health/aloe-vera",
+      "source_type": "institutional",
+      "accessed": "2026-10-14",
+      "notes": "NCCIH summary: some support for burn/wound healing; aloe latex risks; IARC classifies aloe vera leaf extract as possibly carcinogenic to humans; pregnancy caution."
+    },
+    {
+      "id": "src-turmeric-safety-nhs",
+      "title": "Turmeric: adverse effects information",
+      "authors": "Welsh NHS / NHS Wales",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "",
+      "source_type": "institutional",
+      "accessed": "2026-10-14",
+      "notes": "Documents turmeric adverse effects: gallstone/biliary concerns, liver injury reports, bleeding risk. URL not preserved in working notes."
+    },
+    {
+      "id": "src-img-fever-grass-starr",
+      "title": "Wikimedia Commons file: Cymbopogon citratus (fever grass) photograph",
+      "authors": "Forest and Kim Starr",
+      "year": 2015,
+      "journal": "",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Starr-150325-0455-Cymbopogon_citratus-in_planter_with_float_mulch-Residences_Sand_Island-Midway_Atoll_(25265744835).jpg",
+      "source_type": "community",
+      "accessed": "2026-10-14",
+      "notes": "File page opened and license verified in page text: CC BY 3.0 US (https://creativecommons.org/licenses/by/3.0/us/deed.en). Author: Forest and Kim Starr."
+    },
+    {
+      "id": "src-img-neem-azogbonon",
+      "title": "Wikimedia Commons file: Margousier ou Neem 01 (Azadirachta indica)",
+      "authors": "Azogbonon",
+      "year": null,
+      "journal": "",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Margousier_ou_Neem_01.jpg",
+      "source_type": "community",
+      "accessed": "2026-10-14",
+      "notes": "File page opened and license verified in page text: CC0 1.0 Universal Public Domain Dedication."
+    },
+    {
+      "id": "src-img-wonder-starr",
+      "title": "Wikimedia Commons file: Kalanchoe pinnata (syn. Bryophyllum pinnatum) photograph",
+      "authors": "Forest and Kim Starr",
+      "year": 2015,
+      "journal": "",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Starr-150326-0110-Kalanchoe_pinnata-in_pot-Comodore_Ave_Residences_Sand_Island-Midway_Atoll_(24635834884).jpg",
+      "source_type": "community",
+      "accessed": "2026-10-14",
+      "notes": "File page opened and license verified in page text: CC BY 3.0 US. File description notes 'Also known as Bryophyllum pinnatum'."
+    },
+    {
+      "id": "src-img-cerasee-volkamer",
+      "title": "Wikimedia Commons file: Momordica charantia (Volkamer, 1714)",
+      "authors": "Johann Christoph Volkamer",
+      "year": 1714,
+      "journal": "",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Momordica_charantia_chez_Volkamer.jpg",
+      "source_type": "historical",
+      "accessed": "2026-10-14",
+      "notes": "File page opened; public-domain status verified in page text (PD-Art: faithful reproduction of a two-dimensional public-domain work). Used on French Wikipedia Momordica charantia article."
+    },
+    {
+      "id": "src-img-hibiscus-roselle",
+      "title": "Wikimedia Commons file: Roselle (Hibiscus sabdariffa) flowers",
+      "authors": "Ikiwaner",
+      "year": 2008,
+      "journal": "",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Roselle.jpg",
+      "source_type": "community",
+      "accessed": "2026-10-14",
+      "notes": "File page opened and license verified in page text: dual GFDL 1.2+ and CC BY-SA 3.0 Unported (http://creativecommons.org/licenses/by-sa/3.0/). Self-photographed 27 Feb 2008, Serekunda market, The Gambia; depicts Hibiscus sabdariffa."
+    },
+    {
+      "id": "src-img-ginger-seikei",
+      "title": "Wikimedia Commons file: Seikei Zusetsu ginger plate (Zingiber officinale, 1804)",
+      "authors": "Anonymous (Leiden University Library collection)",
+      "year": 1804,
+      "journal": "",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Leiden_University_Library_-_Seikei_Zusetsu_vol._24,_page_036_-_%E7%94%9F%E5%A7%9C_-_Zingiber_officinale_Roscoe,_1804.jpg",
+      "source_type": "historical",
+      "accessed": "2026-10-14",
+      "notes": "File page opened and license verified in page text: CC BY 4.0 International. 1804 Japanese botanical illustration; description confirms species Zingiber officinale Roscoe. Used on Dutch and Japanese Wikipedia."
+    },
+    {
+      "id": "src-img-soursop-blanco",
+      "title": "Wikimedia Commons file: Annona muricata (Blanco, Flora de Filipinas)",
+      "authors": "Francisco Manuel Blanco (O.S.A.)",
+      "year": 1883,
+      "journal": "",
+      "doi": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Annona_muricata_Blanco1.196.png",
+      "source_type": "historical",
+      "accessed": "2026-10-14",
+      "notes": "File page opened: plate from Flora de Filipinas, dated 1880-1883, author Francisco Manuel Blanco (d. 1845). Public domain by age of publication (pre-1929 publication). The license badge did not render in text extraction; PD status determined from the publication date and author shown on the file page. Used on English Wikipedia Soursop article."
+    }
+  ],
+  "plants": [
+    {
+      "id": "fever-grass",
+      "slug": "fever-grass",
+      "common_name": "Fever Grass",
+      "scientific_name": "Cymbopogon citratus",
+      "scientific_name_authorship": "(DC.) Stapf",
+      "family": "Poaceae",
+      "featured": true,
+      "reviewer_status": "verified",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Leaf tea widely used across the Caribbean to bring down fever; one of the most-cited remedies in Jamaican and Trinidadian ethnobotanical surveys.",
+      "disambiguation_note": "Fever grass here is Cymbopogon citratus (lemongrass). It is distinct from citronella grasses (Cymbopogon nardus / C. winterianus), which are grown mainly for mosquito-repelling oil and are not the traditional fever remedy.",
+      "names": [
+        { "name": "Fever Grass", "name_type": "regional", "region": "Jamaica", "notes": "Picking et al. 2015 (TRAMIL Jamaica survey)" },
+        { "name": "Fevergrass", "name_type": "regional", "region": "Trinidad and Tobago", "notes": "Clement et al. 2015 (TRAMIL Trinidad and Tobago survey)" },
+        { "name": "Lemongrass", "name_type": "regional", "region": null, "notes": "Widely used English name; no island-specific source retrieved" }
+      ],
+      "distribution": [
+        { "country": "India", "status": "native", "note": "POWO native range" },
+        { "country": "Sri Lanka", "status": "native", "note": "POWO native range" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Jamaica", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Cuba", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Haiti", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Puerto Rico", "status": "introduced", "note": "POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Leaf tea taken to reduce fever",
+          "countries": ["Jamaica"],
+          "preparation": "Leaf tea",
+          "source_ids": ["src-tramil-jamaica-2015"]
+        },
+        {
+          "use": "Used for fever",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Fever grass leaf tea reduces fever",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Fever use is strongly documented in Caribbean ethnobotanical surveys: 70 citations in the Jamaican TRAMIL survey (TRAMIL-significant) and 46 citations in Trinidad and Tobago.",
+              "study_design": "Ethnobotanical household surveys (TRAMIL methodology)",
+              "population": "450 households (Trinidad and Tobago); Jamaican survey households",
+              "preparation_studied": "Leaf tea",
+              "main_findings": "Among the most frequently cited fever remedies in both surveys.",
+              "limitations": "Survey data document use, not clinical efficacy against fever.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-jamaica-2015", "src-tramil-trinidad-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starr-150325-0455-Cymbopogon_citratus-in_planter_with_float_mulch-Residences_Sand_Island-Midway_Atoll_(25265744835).jpg?width=1280",
+          "caption": "Cymbopogon citratus (fever grass / lemongrass) growing in a planter",
+          "attribution": "Photo: Forest and Kim Starr, Wikimedia Commons",
+          "license": "CC BY 3.0 US",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Starr-150325-0455-Cymbopogon_citratus-in_planter_with_float_mulch-Residences_Sand_Island-Midway_Atoll_(25265744835).jpg"
+        }
+      ]
+    },
+    {
+      "id": "cerasee",
+      "slug": "cerasee",
+      "common_name": "Cerasee",
+      "scientific_name": "Momordica charantia",
+      "scientific_name_authorship": "L.",
+      "family": "Cucurbitaceae",
+      "featured": true,
+      "reviewer_status": "verified",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves", "Fruit", "Vine"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Bitter vine used in Jamaica as a 'blood cleanser' and in Trinidad and Tobago for diabetes; among the best-known Caribbean bush medicines.",
+      "disambiguation_note": "Cerasee is Momordica charantia (bitter melon/bitter gourd). The name is sometimes loosely applied to other bitter vines; the TRAMIL surveys identify it as M. charantia.",
+      "names": [
+        { "name": "Cerasee", "name_type": "regional", "region": "Jamaica", "notes": "Picking et al. 2015 (TRAMIL Jamaica survey)" },
+        { "name": "Caraille", "name_type": "regional", "region": "Trinidad and Tobago", "notes": "Clement et al. 2015 (TRAMIL Trinidad and Tobago survey)" }
+      ],
+      "distribution": [
+        { "country": "India", "status": "native", "note": "POWO native range (Old World tropics)" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Jamaica", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Cuba", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Haiti", "status": "introduced", "note": "POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Blood cleanse / blood purifier",
+          "countries": ["Jamaica"],
+          "preparation": "",
+          "source_ids": ["src-tramil-jamaica-2015"]
+        },
+        {
+          "use": "Used for diabetes",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Cerasee (bitter melon) helps lower blood sugar in diabetes",
+          "assessments": [
+            {
+              "category": "moderate_human",
+              "summary": "A 2024 meta-analysis of 8 RCTs (n=423) found bitter melon reduced fasting blood glucose (-0.85 mmol/L), postprandial glucose (-2.28 mmol/L) and HbA1c (-0.38%), but heterogeneity was high and findings conflict with the Cochrane review and a 2024 null review.",
+              "study_design": "Systematic review and meta-analysis of randomized controlled trials",
+              "population": "423 adults with diabetes/prediabetes across 8 RCTs",
+              "preparation_studied": "Momordica charantia preparations (various)",
+              "main_findings": "FBG -0.85 mmol/L; PPG -2.28 mmol/L; HbA1c -0.38%; total cholesterol -0.38 mmol/L.",
+              "limitations": "High heterogeneity; small trials; conflicts with Cochrane (insufficient evidence) and one 2024 null review.",
+              "adverse_effects": "",
+              "source_ids": ["src-cerasee-zhang-2024"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            },
+            {
+              "category": "traditional_use_documented",
+              "summary": "Use for diabetes documented in the Trinidad and Tobago TRAMIL survey (7 citations).",
+              "study_design": "Ethnobotanical household survey (TRAMIL methodology)",
+              "population": "450 households, Trinidad and Tobago",
+              "preparation_studied": "",
+              "main_findings": "Caraille/Momordica cited for diabetes (7 citations).",
+              "limitations": "Survey data document use, not efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-trinidad-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Cerasee cleanses the blood",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Blood-cleansing use strongly documented in the Jamaican TRAMIL survey (67 citations), one of the highest-cited uses in the survey.",
+              "study_design": "Ethnobotanical household survey (TRAMIL methodology)",
+              "population": "Jamaican survey households",
+              "preparation_studied": "",
+              "main_findings": "Cerasee cited 67 times for blood cleansing.",
+              "limitations": "'Blood cleanse' is a traditional concept without a direct clinical equivalent.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-jamaica-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Momordica_charantia_chez_Volkamer.jpg?width=1280",
+          "caption": "Momordica charantia (cerasee / bitter melon), botanical illustration, 1714",
+          "attribution": "Photo: Johann Christoph Volkamer (1714), Wikimedia Commons",
+          "license": "Public domain",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Momordica_charantia_chez_Volkamer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "aloe-vera",
+      "slug": "aloe-vera",
+      "common_name": "Aloe Vera",
+      "scientific_name": "Aloe vera",
+      "scientific_name_authorship": "(L.) Burm.f.",
+      "family": "Asphodelaceae",
+      "featured": false,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaf gel", "Leaf latex"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Known as Sinkle Bible in Jamaica (washout) and Aloes in Trinidad (cooling); leaf gel is the classic Caribbean burn and skin remedy.",
+      "disambiguation_note": "",
+      "names": [
+        { "name": "Sinkle Bible", "name_type": "regional", "region": "Jamaica", "notes": "Picking et al. 2015 (TRAMIL Jamaica survey)" },
+        { "name": "Aloes", "name_type": "regional", "region": "Trinidad and Tobago", "notes": "Clement et al. 2015 (TRAMIL Trinidad and Tobago survey)" }
+      ],
+      "distribution": [
+        { "country": "Oman", "status": "native", "note": "POWO native range" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Jamaica", "status": "introduced", "note": "POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Washout (internal cleansing)",
+          "countries": ["Jamaica"],
+          "preparation": "",
+          "source_ids": ["src-tramil-jamaica-2015"]
+        },
+        {
+          "use": "Cooling the body",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Aloe vera gel aids burn and wound healing",
+          "assessments": [
+            {
+              "category": "moderate_human",
+              "summary": "A review of 23 clinical trials supports Aloe vera as a complementary treatment for burn wound healing.",
+              "study_design": "Review of clinical trials",
+              "population": "Burn and wound patients across 23 clinical trials",
+              "preparation_studied": "Aloe vera gel preparations",
+              "main_findings": "Evidence supports complementary use for burns.",
+              "limitations": "Review-level summary; trial quality not detailed in retrieved record.",
+              "adverse_effects": "",
+              "source_ids": ["src-aloe-hekmatpou-2019"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Aloes/Sinkle Bible as a washout and cooling remedy",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Washout use documented in Jamaica (54 citations) and cooling use in Trinidad and Tobago (8 citations) in TRAMIL surveys.",
+              "study_design": "Ethnobotanical household surveys (TRAMIL methodology)",
+              "population": "Jamaican and Trinidadian survey households",
+              "preparation_studied": "",
+              "main_findings": "Sinkle Bible cited 54 times for washout (Jamaica); aloes cited 8 times for cooling (Trinidad and Tobago).",
+              "limitations": "Survey data document use, not efficacy or safety of internal use.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-jamaica-2015", "src-tramil-trinidad-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "NCCIH notes aloe latex (taken by mouth) carries risks; IARC classifies aloe vera leaf extract as possibly carcinogenic to humans; caution advised in pregnancy.",
+        "side_effects": "Aloe latex taken orally can cause cramping and diarrhea-type effects.",
+        "interactions": "",
+        "pregnancy": "NCCIH advises caution with aloe use in pregnancy.",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": []
+    },
+    {
+      "id": "moringa",
+      "slug": "moringa",
+      "common_name": "Moringa",
+      "scientific_name": "Moringa oleifera",
+      "scientific_name_authorship": "Lam.",
+      "family": "Moringaceae",
+      "featured": false,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves", "Pods", "Seeds"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Taken up in Jamaican households since the 2000s as teas, juices and food; leaves, pods and seeds are all used.",
+      "disambiguation_note": "",
+      "names": [
+        { "name": "Moringa", "name_type": "regional", "region": null, "notes": "No island-specific name found in retrieved sources; universal name used" }
+      ],
+      "distribution": [
+        { "country": "India", "status": "native", "note": "POWO native range" },
+        { "country": "Pakistan", "status": "native", "note": "POWO native range" },
+        { "country": "Jamaica", "status": "introduced", "note": "Documented in Jamaican households (MDPI 2017); POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Teas, juices and meals as a general health food/medicine",
+          "countries": ["Jamaica"],
+          "preparation": "Teas, juices, cooked meals",
+          "source_ids": ["src-moringa-mdpi-2017"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Moringa supports metabolic health (blood sugar and cholesterol)",
+          "assessments": [
+            {
+              "category": "moderate_human",
+              "summary": "A 2015 review of 5 human studies found anti-hyperglycemic and anti-dyslipidemic effects with no adverse effects reported; studies were small.",
+              "study_design": "Review of human studies",
+              "population": "Adults across 5 small human studies",
+              "preparation_studied": "Moringa oleifera leaf preparations",
+              "main_findings": "Anti-hyperglycemic and anti-dyslipidemic effects; no adverse effects reported.",
+              "limitations": "Few, small human studies.",
+              "adverse_effects": "No adverse effects reported in the reviewed studies.",
+              "source_ids": ["src-moringa-stohs-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            },
+            {
+              "category": "traditional_use_documented",
+              "summary": "Use in Jamaican households as teas, juices and meals since the 2000s is documented in a peer-reviewed review.",
+              "study_design": "Literature review",
+              "population": "Jamaican households",
+              "preparation_studied": "Teas, juices, meals",
+              "main_findings": "Moringa adopted into Jamaican household use since the 2000s.",
+              "limitations": "Documents adoption and use, not clinical efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-moringa-mdpi-2017"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "No adverse effects reported in the small human studies reviewed by Stohs & Hartman (2015).",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": []
+    },
+    {
+      "id": "ginger",
+      "slug": "ginger",
+      "common_name": "Ginger",
+      "scientific_name": "Zingiber officinale",
+      "scientific_name_authorship": "Roscoe",
+      "family": "Zingiberaceae",
+      "featured": false,
+      "reviewer_status": "verified",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Rhizome"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Used in Trinidad for cold and cough and in Jamaica for bellyache; ginger tea is a Caribbean household staple.",
+      "disambiguation_note": "",
+      "names": [
+        { "name": "Ginger", "name_type": "regional", "region": null, "notes": "No island-specific name found in retrieved sources; universal name used" }
+      ],
+      "distribution": [
+        { "country": "India", "status": "native", "note": "POWO native range (possibly India)" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "Documented traditional use; widely cultivated" },
+        { "country": "Jamaica", "status": "introduced", "note": "Documented traditional use; widely cultivated" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Cold and cough",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        },
+        {
+          "use": "Bellyache (stomach ache)",
+          "countries": ["Jamaica"],
+          "preparation": "",
+          "source_ids": ["src-tramil-jamaica-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Ginger relieves nausea, including nausea in pregnancy",
+          "assessments": [
+            {
+              "category": "moderate_human",
+              "summary": "A 2014 meta-analysis of 12 RCTs (n=1278) found ginger improved nausea but not vomiting significantly; evidence quality was low and no significant safety signal emerged.",
+              "study_design": "Systematic review and meta-analysis of randomized controlled trials",
+              "population": "1278 participants across 12 RCTs (incl. pregnancy-related nausea)",
+              "preparation_studied": "Ginger preparations (various)",
+              "main_findings": "Nausea improved; vomiting not significantly reduced.",
+              "limitations": "Low-quality evidence overall.",
+              "adverse_effects": "No significant safety signal in the reviewed trials.",
+              "source_ids": ["src-ginger-viljoen-2014"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Ginger for cold, cough and bellyache",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Cold and cough use documented in Trinidad and Tobago (2 citations) and bellyache use in Jamaica (25 citations) in TRAMIL surveys.",
+              "study_design": "Ethnobotanical household surveys (TRAMIL methodology)",
+              "population": "Trinidadian and Jamaican survey households",
+              "preparation_studied": "",
+              "main_findings": "Ginger cited for cold & cough (Trinidad) and bellyache (Jamaica, 25 citations).",
+              "limitations": "Survey data document use, not efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-trinidad-2015", "src-tramil-jamaica-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leiden_University_Library_-_Seikei_Zusetsu_vol._24,_page_036_-_%E7%94%9F%E5%A7%9C_-_Zingiber_officinale_Roscoe,_1804.jpg?width=1280",
+          "caption": "Zingiber officinale (ginger), botanical illustration from the Seikei Zusetsu, 1804",
+          "attribution": "Photo: Anonymous, Leiden University Library collection, Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Leiden_University_Library_-_Seikei_Zusetsu_vol._24,_page_036_-_%E7%94%9F%E5%A7%9C_-_Zingiber_officinale_Roscoe,_1804.jpg"
+        }
+      ]
+    },
+    {
+      "id": "turmeric",
+      "slug": "turmeric",
+      "common_name": "Turmeric",
+      "scientific_name": "Curcuma longa",
+      "scientific_name_authorship": "L.",
+      "family": "Zingiberaceae",
+      "featured": false,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Rhizome"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Known as saffron/hardi in Trinidad and Tobago, where it is used for afterbirth care; turmeric is also the subject of modern arthritis research.",
+      "disambiguation_note": "Turmeric is Curcuma longa. In Trinidad it is called 'saffron' (saffron-hardi), not to be confused with true saffron (Crocus sativus).",
+      "names": [
+        { "name": "Saffron", "name_type": "regional", "region": "Trinidad and Tobago", "notes": "Clement et al. 2015 ('Saffron-hardi')" },
+        { "name": "Hardi", "name_type": "regional", "region": "Trinidad and Tobago", "notes": "Clement et al. 2015 ('Saffron-hardi')" }
+      ],
+      "distribution": [
+        { "country": "India", "status": "native", "note": "POWO native range" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "Documented traditional use; widely cultivated" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Afterbirth care",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Turmeric/curcumin alleviates arthritis symptoms",
+          "assessments": [
+            {
+              "category": "moderate_human",
+              "summary": "A 2016 meta-analysis of 8 RCTs found turmeric extracts reduced arthritis pain (VAS -2.04) and WOMAC scores (-15.36); the first author was affiliated with a turmeric supplement manufacturer, which should temper interpretation.",
+              "study_design": "Systematic review and meta-analysis of randomized controlled trials",
+              "population": "Arthritis patients across 8 RCTs",
+              "preparation_studied": "Turmeric extracts and curcumin",
+              "main_findings": "Pain VAS -2.04; WOMAC -15.36.",
+              "limitations": "First author affiliated with Daily Manufacturing, Inc. (supplement maker); small evidence base.",
+              "adverse_effects": "",
+              "source_ids": ["src-turmeric-daily-2016"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Turmeric (saffron-hardi) for afterbirth care",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Afterbirth use documented in the Trinidad and Tobago TRAMIL survey (17 citations).",
+              "study_design": "Ethnobotanical household survey (TRAMIL methodology)",
+              "population": "450 households, Trinidad and Tobago",
+              "preparation_studied": "",
+              "main_findings": "Saffron-hardi/Curcuma cited 17 times for afterbirth.",
+              "limitations": "Survey data document use, not efficacy or safety in the postpartum period.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-trinidad-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "Welsh NHS information documents turmeric adverse effects including gallstone/biliary concerns, reported liver injury, and bleeding risk.",
+        "side_effects": "Gallbladder/biliary effects; liver injury has been reported.",
+        "interactions": "Bleeding risk (caution with anticoagulants).",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": "Caution with gallstones/biliary obstruction."
+      },
+      "images": []
+    },
+    {
+      "id": "soursop",
+      "slug": "soursop",
+      "common_name": "Soursop",
+      "scientific_name": "Annona muricata",
+      "scientific_name_authorship": "L.",
+      "family": "Annonaceae",
+      "featured": true,
+      "reviewer_status": "verified",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves", "Fruit"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Leaf tea used in Trinidad and Tobago for high blood pressure and in Jamaica for nerves; soursop is also widely discussed for its purported anticancer properties.",
+      "disambiguation_note": "",
+      "names": [
+        { "name": "Soursop", "name_type": "regional", "region": null, "notes": "No island-specific name found in retrieved sources; universal name used" }
+      ],
+      "distribution": [
+        { "country": "Trinidad and Tobago", "status": "native", "note": "POWO native range (tropical Americas); documented use" },
+        { "country": "Jamaica", "status": "native", "note": "POWO native range (tropical Americas); documented use" },
+        { "country": "Cuba", "status": "native", "note": "POWO native range (tropical Americas)" },
+        { "country": "Haiti", "status": "native", "note": "POWO native range (tropical Americas)" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "High blood pressure (HBP)",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "Leaf preparation",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        },
+        {
+          "use": "Nerves (calming)",
+          "countries": ["Jamaica"],
+          "preparation": "",
+          "source_ids": ["src-tramil-jamaica-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Soursop has anticancer properties",
+          "assessments": [
+            {
+              "category": "preliminary",
+              "summary": "Anticancer findings are limited to laboratory (in vitro) and animal studies; there are no human trials supporting anticancer use.",
+              "study_design": "In vitro and animal studies (review)",
+              "population": "Cell lines and animal models",
+              "preparation_studied": "Annona muricata extracts",
+              "main_findings": "Cytotoxic activity observed in preclinical models only.",
+              "limitations": "No human evidence; preclinical findings do not establish efficacy in people.",
+              "adverse_effects": "",
+              "source_ids": ["src-soursop-moghadamtousi-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Soursop leaf for high blood pressure and nerves",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "HBP use documented in Trinidad and Tobago (8 citations) and use for nerves in Jamaica (83 citations, one of the highest-cited uses in the survey).",
+              "study_design": "Ethnobotanical household surveys (TRAMIL methodology)",
+              "population": "Trinidadian and Jamaican survey households",
+              "preparation_studied": "Leaf preparation",
+              "main_findings": "Soursop cited 8 times for HBP (Trinidad and Tobago) and 83 times for nerves (Jamaica).",
+              "limitations": "Survey data document use, not efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-trinidad-2015", "src-tramil-jamaica-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Soursop fruit/leaves carry a neurotoxicity risk (annonacin)",
+          "assessments": [
+            {
+              "category": "safety_concern",
+              "summary": "Annonacin, found in Annonaceae including soursop, is neurotoxic and has been linked to atypical parkinsonism in Guadeloupe where soursop consumption is high.",
+              "study_design": "Neurotoxicology research",
+              "population": "Laboratory models; epidemiological link in Guadeloupe",
+              "preparation_studied": "Annonacin / Annonaceae fruit consumption",
+              "main_findings": "Annonacin is neurotoxic; atypical parkinsonism cluster linked to high Annonaceae consumption in Guadeloupe.",
+              "limitations": "",
+              "adverse_effects": "Neurotoxicity; atypical parkinsonism risk with heavy chronic consumption.",
+              "source_ids": ["src-soursop-lannuzel-2003"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "Heavy chronic consumption of soursop has been linked to atypical parkinsonism via the neurotoxin annonacin (Guadeloupe).",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Annona_muricata_Blanco1.196.png?width=1280",
+          "caption": "Annona muricata (soursop), botanical plate from Flora de Filipinas, 1880-1883",
+          "attribution": "Photo: Francisco Manuel Blanco (O.S.A.), Wikimedia Commons",
+          "license": "Public domain",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Annona_muricata_Blanco1.196.png"
+        }
+      ]
+    },
+    {
+      "id": "guava-leaf",
+      "slug": "guava-leaf",
+      "common_name": "Guava Leaf",
+      "scientific_name": "Psidium guajava",
+      "scientific_name_authorship": "L.",
+      "family": "Myrtaceae",
+      "featured": false,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Guava leaf tea is a classic Caribbean remedy for diarrhea, documented across the region including Trinidad and Tobago, Cuba, Guadeloupe and Martinique.",
+      "disambiguation_note": "",
+      "names": [
+        { "name": "Guava", "name_type": "regional", "region": null, "notes": "No island-specific name found in retrieved sources; universal name used" }
+      ],
+      "distribution": [
+        { "country": "Trinidad and Tobago", "status": "native", "note": "POWO native range (South America / tropical Americas); documented use" },
+        { "country": "Cuba", "status": "native", "note": "Documented use (Liu et al. 2024)" },
+        { "country": "Guadeloupe", "status": "native", "note": "Documented use (Liu et al. 2024)" },
+        { "country": "Martinique", "status": "native", "note": "Documented use (Liu et al. 2024)" },
+        { "country": "Jamaica", "status": "native", "note": "POWO native range (tropical Americas)" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Diarrhea",
+          "countries": ["Trinidad and Tobago", "Cuba", "Guadeloupe", "Martinique"],
+          "preparation": "Leaf tea/decoction",
+          "source_ids": ["src-guava-liu-2024", "src-guava-gutierrez-2008"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Guava leaf helps treat diarrhea",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Guava leaf use for diarrheal disorders is documented across 44 countries including Trinidad and Tobago, Cuba, Guadeloupe and Martinique.",
+              "study_design": "Multi-country traditional-use review",
+              "population": "44 countries reviewed",
+              "preparation_studied": "Guava leaf preparations",
+              "main_findings": "Widespread traditional use for diarrhea documented, including across the Caribbean.",
+              "limitations": "Documents traditional use; clinical efficacy not assessed in the retrieved record.",
+              "adverse_effects": "",
+              "source_ids": ["src-guava-liu-2024", "src-guava-gutierrez-2008"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": []
+    },
+    {
+      "id": "hibiscus-sorrel",
+      "slug": "hibiscus-sorrel",
+      "common_name": "Hibiscus (Sorrel)",
+      "scientific_name": "Hibiscus sabdariffa",
+      "scientific_name_authorship": "L.",
+      "family": "Malvaceae",
+      "featured": false,
+      "reviewer_status": "verified",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Calyces", "Flowers"],
+      "constituents": [],
+      "cultural_background": "Sorrel drink is a central Jamaican Christmas tradition, made from the dried red calyces with spices.",
+      "traditional_use_summary": "Sorrel — the red Christmas drink of Jamaica — is also a folk remedy for high blood pressure with clinical trial support.",
+      "disambiguation_note": "Hibiscus-sorrel here is Hibiscus sabdariffa (roselle), the species used for the Caribbean sorrel drink and in medicinal research. It is not the ornamental Hibiscus rosa-sinensis. Note: POWO now places H. sabdariffa as a synonym of Sabdariffa gossypiifolia after the genus Sabdariffa was reinstated (Hibiscus found polyphyletic); the medicinal and TRAMIL literature uniformly uses Hibiscus sabdariffa, retained here.",
+      "names": [
+        { "name": "Sorrel", "name_type": "regional", "region": "Jamaica", "notes": "TopTropicals plant profile (Jamaican Christmas tradition)" },
+        { "name": "Roselle", "name_type": "regional", "region": null, "notes": "Widely used English name; no island-specific source retrieved" }
+      ],
+      "distribution": [
+        { "country": "Jamaica", "status": "introduced", "note": "Documented use; widely cultivated" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "Widely cultivated in the Caribbean" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Christmas drink (festive beverage)",
+          "countries": ["Jamaica"],
+          "preparation": "Dried calyces steeped with spices",
+          "source_ids": ["src-hibiscus-toptropicals"]
+        },
+        {
+          "use": "Folk remedy for high blood pressure",
+          "countries": ["Jamaica"],
+          "preparation": "",
+          "source_ids": ["src-hibiscus-toptropicals"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Hibiscus (sorrel) lowers blood pressure",
+          "assessments": [
+            {
+              "category": "moderate_human",
+              "summary": "A 2022 meta-analysis of 17 RCTs found Hibiscus sabdariffa reduced systolic blood pressure by 7.10 mmHg versus placebo.",
+              "study_design": "Systematic review and meta-analysis of randomized controlled trials",
+              "population": "Adults with elevated blood pressure across 17 RCTs",
+              "preparation_studied": "Hibiscus sabdariffa calyx preparations",
+              "main_findings": "Systolic BP -7.10 mmHg vs placebo.",
+              "limitations": "",
+              "adverse_effects": "",
+              "source_ids": ["src-hibiscus-ellis-2022"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            },
+            {
+              "category": "traditional_use_documented",
+              "summary": "Folk antihypertensive use documented alongside the Jamaican sorrel tradition.",
+              "study_design": "Plant profile / traditional knowledge record",
+              "population": "Jamaica",
+              "preparation_studied": "Sorrel drink (calyces)",
+              "main_findings": "Sorrel documented as a folk remedy for high blood pressure.",
+              "limitations": "Documents folk use, not clinical efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-hibiscus-toptropicals"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roselle.jpg?width=1280",
+          "caption": "Hibiscus sabdariffa (roselle / sorrel) flowers",
+          "attribution": "Photo: Ikiwaner, Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Roselle.jpg"
+        }
+      ]
+    },
+    {
+      "id": "neem",
+      "slug": "neem",
+      "common_name": "Neem",
+      "scientific_name": "Azadirachta indica",
+      "scientific_name_authorship": "A.Juss.",
+      "family": "Meliaceae",
+      "featured": false,
+      "reviewer_status": "verified",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves", "Bark"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Used in Trinidad and Tobago for diabetes; neem oil is toxic, especially to children, and must never be confused with leaf preparations.",
+      "disambiguation_note": "",
+      "names": [
+        { "name": "Neem", "name_type": "regional", "region": null, "notes": "No island-specific name found in retrieved sources; universal name used" }
+      ],
+      "distribution": [
+        { "country": "India", "status": "native", "note": "POWO native range (Assam to Vietnam)" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "POWO introduced range; documented use" },
+        { "country": "Jamaica", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Cuba", "status": "introduced", "note": "POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Diabetes",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Neem helps manage diabetes",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Use for diabetes documented in the Trinidad and Tobago TRAMIL survey (7 citations). No clinical assessment retrieved for this claim.",
+              "study_design": "Ethnobotanical household survey (TRAMIL methodology)",
+              "population": "450 households, Trinidad and Tobago",
+              "preparation_studied": "",
+              "main_findings": "Neem cited 7 times for diabetes.",
+              "limitations": "Survey data document use, not efficacy; no human trials retrieved.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-trinidad-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Neem oil is toxic, especially to children",
+          "assessments": [
+            {
+              "category": "safety_concern",
+              "summary": "A clinical review documents neem oil poisoning, particularly in children: hepatic toxicity, encephalopathy and seizures.",
+              "study_design": "Clinical review / case literature",
+              "population": "Poisoning cases, especially pediatric",
+              "preparation_studied": "Neem oil (not leaf preparations)",
+              "main_findings": "Neem oil poisoning causes hepatic toxicity, encephalopathy and seizures.",
+              "limitations": "",
+              "adverse_effects": "Hepatic toxicity, encephalopathy, seizures.",
+              "source_ids": ["src-neem-oil-toxicity"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "Neem oil is toxic and has caused pediatric poisoning (hepatic toxicity, encephalopathy, seizures). Leaf-based traditional preparations are distinct from neem oil.",
+        "side_effects": "Neem oil: hepatic toxicity, encephalopathy, seizures (especially in children).",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "Neem oil poisoning documented in children; keep neem oil away from children.",
+        "contraindications": "Do not ingest neem oil."
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Margousier_ou_Neem_01.jpg?width=1280",
+          "caption": "Azadirachta indica (neem / margousier) tree",
+          "attribution": "Photo: Azogbonon, Wikimedia Commons",
+          "license": "CC0 1.0 Universal",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Margousier_ou_Neem_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jamaican-dogwood",
+      "slug": "jamaican-dogwood",
+      "common_name": "Jamaican Dogwood",
+      "scientific_name": "Piscidia piscipula",
+      "scientific_name_authorship": "(L.) Sarg.",
+      "family": "Fabaceae",
+      "featured": false,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Bark", "Root bark"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Bark traditionally used as a sedative and fish poison in the Caribbean; human evidence is lacking and the plant contains the toxic compound rotenone.",
+      "disambiguation_note": "Jamaican dogwood (Piscidia piscipula, Fabaceae) is not related to the dogwood family (Cornaceae). It is native to the Caribbean region including Jamaica, Cuba, the Bahamas and Belize.",
+      "names": [
+        { "name": "Jamaican Dogwood", "name_type": "regional", "region": null, "notes": "Universal English name referencing Jamaica; no island-specific variant found in retrieved sources" }
+      ],
+      "distribution": [
+        { "country": "Jamaica", "status": "native", "note": "POWO native range" },
+        { "country": "Cuba", "status": "native", "note": "POWO native range" },
+        { "country": "Bahamas", "status": "native", "note": "POWO native range" },
+        { "country": "Belize", "status": "native", "note": "POWO native range" },
+        { "country": "Dominican Republic", "status": "native", "note": "POWO native range" },
+        { "country": "Haiti", "status": "native", "note": "POWO native range" }
+      ],
+      "traditional_uses": [],
+      "claims": [
+        {
+          "claim": "Jamaican dogwood bark works as a sedative / pain remedy",
+          "assessments": [
+            {
+              "category": "insufficient_evidence",
+              "summary": "WebMD states there is no evidence supporting Jamaican dogwood for this use or any other use in humans; the evidence gap is explicitly discussed.",
+              "study_design": "Evidence review (institutional monograph)",
+              "population": "Human use",
+              "preparation_studied": "Jamaican dogwood bark preparations",
+              "main_findings": "No supporting human evidence identified.",
+              "limitations": "Absence of evidence; traditional sedative use is widely claimed but unstudied in humans.",
+              "adverse_effects": "",
+              "source_ids": ["src-dogwood-webmd"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Jamaican dogwood contains rotenone and is toxic",
+          "assessments": [
+            {
+              "category": "safety_concern",
+              "summary": "The plant contains rotenone, a mitochondrial complex I blocker; toxicity includes deaths in poisoning cases and a debated Parkinson's disease link.",
+              "study_design": "Toxicology literature (institutional monograph)",
+              "population": "Poisoning cases; laboratory models",
+              "preparation_studied": "Piscidia piscipula bark/root preparations",
+              "main_findings": "Rotenone toxicity documented; deaths reported; Parkinson's risk debated.",
+              "limitations": "",
+              "adverse_effects": "Rotenone poisoning can be fatal; possible Parkinson's disease link.",
+              "source_ids": ["src-dogwood-webmd"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "Contains rotenone, a mitochondrial poison; deaths have been reported and a Parkinson's disease link is debated. No safe dose is established.",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": []
+    },
+    {
+      "id": "guinea-hen-weed",
+      "slug": "guinea-hen-weed",
+      "common_name": "Guinea Hen Weed",
+      "scientific_name": "Petiveria alliacea",
+      "scientific_name_authorship": "L.",
+      "family": "Petiveriaceae",
+      "featured": true,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves", "Roots", "Whole plant"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Strong-smelling herb used in Jamaica for headache and in Trinidad and Tobago (as gully root) for cold and cough; studied for anticancer potential but contraindicated in pregnancy.",
+      "disambiguation_note": "Family placement follows APG IV: Petiveriaceae (older literature places it in Phytolaccaceae). Known as anamu in Cuba, Puerto Rico and the Dominican Republic, and mapurite in Trinidad.",
+      "names": [
+        { "name": "Guinea Hen Weed", "name_type": "regional", "region": "Jamaica", "notes": "Picking et al. 2015 (TRAMIL Jamaica survey)" },
+        { "name": "Gully root", "name_type": "regional", "region": "Trinidad and Tobago", "notes": "Clement et al. 2015 (TRAMIL Trinidad and Tobago survey)" },
+        { "name": "Anamu", "name_type": "regional", "region": "Cuba", "notes": "Documented in Caribbean literature (Cuba, Puerto Rico, Dominican Republic)" }
+      ],
+      "distribution": [
+        { "country": "Trinidad and Tobago", "status": "native", "note": "POWO native range" },
+        { "country": "Jamaica", "status": "native", "note": "POWO native range" },
+        { "country": "Cuba", "status": "native", "note": "POWO native range" },
+        { "country": "Haiti", "status": "native", "note": "POWO native range" },
+        { "country": "Puerto Rico", "status": "native", "note": "POWO native range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Headache",
+          "countries": ["Jamaica"],
+          "preparation": "",
+          "source_ids": ["src-tramil-jamaica-2015"]
+        },
+        {
+          "use": "Cold and cough",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Guinea hen weed has anticancer properties",
+          "assessments": [
+            {
+              "category": "preliminary",
+              "summary": "Anticancer findings are limited to a mouse breast-cancer model and related preclinical work; no human trials.",
+              "study_design": "Animal study (mouse breast-cancer model)",
+              "population": "Mice",
+              "preparation_studied": "Petiveria alliacea extract",
+              "main_findings": "Activity observed in a mouse breast-cancer model.",
+              "limitations": "Animal evidence only; no human data.",
+              "adverse_effects": "",
+              "source_ids": ["src-petiveria-hernandez-2017"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Guinea hen weed / gully root for headache, cold and cough",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Headache use documented in Jamaica (23 citations) and cold & cough use in Trinidad and Tobago (1 citation) in TRAMIL surveys.",
+              "study_design": "Ethnobotanical household surveys (TRAMIL methodology)",
+              "population": "Jamaican and Trinidadian survey households",
+              "preparation_studied": "",
+              "main_findings": "Guinea hen weed cited 23 times for headache (Jamaica); gully root cited once for cold & cough (Trinidad and Tobago).",
+              "limitations": "Survey data document use, not efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-jamaica-2015", "src-tramil-trinidad-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Guinea hen weed is unsafe in pregnancy (abortive effect)",
+          "assessments": [
+            {
+              "category": "safety_concern",
+              "summary": "A Costa Rican TRAMIL study attributes an abortive effect to Petiveria alliacea via uterine smooth-muscle contraction; it is contraindicated in pregnancy.",
+              "study_design": "TRAMIL ethnobotanical/pharmacological study",
+              "population": "Traditional use records; pharmacological basis",
+              "preparation_studied": "Petiveria alliacea",
+              "main_findings": "Abortive effect attributed; uterine smooth-muscle contraction documented.",
+              "limitations": "",
+              "adverse_effects": "Uterine contraction; risk of miscarriage.",
+              "source_ids": ["src-petiveria-costarica-2006"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "Contraindicated in pregnancy: an abortive effect via uterine smooth-muscle contraction is documented in TRAMIL research.",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "Contraindicated — abortive effect documented (uterine smooth-muscle contraction).",
+        "children": "",
+        "contraindications": "Pregnancy."
+      },
+      "images": []
+    },
+    {
+      "id": "breadfruit-leaf",
+      "slug": "breadfruit-leaf",
+      "common_name": "Breadfruit Leaf",
+      "scientific_name": "Artocarpus altilis",
+      "scientific_name_authorship": "(Parkinson) Fosberg",
+      "family": "Moraceae",
+      "featured": false,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Breadfruit leaf tea is used in Trinidad and Tobago for high blood pressure; a Jamaican (UWI Mona) animal study found blood-pressure-lowering effects.",
+      "disambiguation_note": "",
+      "names": [
+        { "name": "Breadfruit", "name_type": "regional", "region": null, "notes": "No island-specific name found in retrieved sources; universal name used" }
+      ],
+      "distribution": [
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "POWO introduced range; documented use" },
+        { "country": "Jamaica", "status": "introduced", "note": "POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "High blood pressure (HBP)",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "Leaf tea",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Breadfruit leaf lowers blood pressure",
+          "assessments": [
+            {
+              "category": "preliminary",
+              "summary": "A UWI Mona (Jamaica) study found aqueous breadfruit leaf extract was hypotensive and bradycardic in rats; no human trials retrieved.",
+              "study_design": "Animal study (rats)",
+              "population": "Rats",
+              "preparation_studied": "Aqueous Artocarpus altilis leaf extract",
+              "main_findings": "Hypotensive and bradycardic effects in rats.",
+              "limitations": "Animal evidence only; no human data.",
+              "adverse_effects": "",
+              "source_ids": ["src-breadfruit-nwokocha-2012"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            },
+            {
+              "category": "traditional_use_documented",
+              "summary": "HBP use documented in the Trinidad and Tobago TRAMIL survey (11 citations).",
+              "study_design": "Ethnobotanical household survey (TRAMIL methodology)",
+              "population": "450 households, Trinidad and Tobago",
+              "preparation_studied": "Leaf tea",
+              "main_findings": "Breadfruit cited 11 times for HBP.",
+              "limitations": "Survey data document use, not efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-trinidad-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": []
+    },
+    {
+      "id": "wonder-of-the-world",
+      "slug": "wonder-of-the-world",
+      "common_name": "Wonder-of-the-World Leaf",
+      "scientific_name": "Bryophyllum pinnatum",
+      "scientific_name_authorship": "(Lam.) Oken",
+      "family": "Crassulaceae",
+      "featured": true,
+      "reviewer_status": "verified",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Known as Leaf of Life in Jamaica, used for colds; the succulent leaves are also applied to wounds, though the plant contains potentially toxic cardiac glycosides.",
+      "disambiguation_note": "Wonder-of-the-world is Bryophyllum pinnatum, the name used in Caribbean and TRAMIL literature. POWO accepts Kalanchoe pinnata (Lam.) Pers. with B. pinnatum as a homotypic synonym; both names refer to the same plant. The Commons image is filed under Kalanchoe pinnata and its description notes 'Also known as Bryophyllum pinnatum'.",
+      "names": [
+        { "name": "Leaf of Life", "name_type": "regional", "region": "Jamaica", "notes": "Picking et al. 2015 (TRAMIL Jamaica survey)" },
+        { "name": "Kalanchoe pinnata", "name_type": "synonym", "region": null, "notes": "Accepted name on POWO; homotypic synonym" },
+        { "name": "Wonder of the World", "name_type": "regional", "region": null, "notes": "Widely used Caribbean English name; no island-specific source retrieved" }
+      ],
+      "distribution": [
+        { "country": "Madagascar", "status": "native", "note": "POWO native range" },
+        { "country": "Jamaica", "status": "introduced", "note": "POWO introduced range; documented use" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Cuba", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Haiti", "status": "introduced", "note": "POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "Cold",
+          "countries": ["Jamaica"],
+          "preparation": "",
+          "source_ids": ["src-tramil-jamaica-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Leaf of Life aids wound healing",
+          "assessments": [
+            {
+              "category": "preliminary",
+              "summary": "Preclinical (animal/laboratory) studies provide the most extensive evidence for wound-healing effects; no human trials retrieved.",
+              "study_design": "Preclinical studies (review)",
+              "population": "Animal models and cell studies",
+              "preparation_studied": "Kalanchoe pinnata / Bryophyllum pinnatum leaf preparations",
+              "main_findings": "Wound-healing effects in preclinical models.",
+              "limitations": "No human evidence.",
+              "adverse_effects": "",
+              "source_ids": ["src-kalanchoe-mdpi-review"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Leaf of Life for colds",
+          "assessments": [
+            {
+              "category": "traditional_use_documented",
+              "summary": "Cold use documented in the Jamaican TRAMIL survey (51 citations).",
+              "study_design": "Ethnobotanical household survey (TRAMIL methodology)",
+              "population": "Jamaican survey households",
+              "preparation_studied": "",
+              "main_findings": "Leaf of Life cited 51 times for cold.",
+              "limitations": "Survey data document use, not efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-jamaica-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "claim": "Wonder-of-the-world contains toxic cardiac glycosides (bufadienolides)",
+          "assessments": [
+            {
+              "category": "safety_concern",
+              "summary": "The plant contains bufadienolides, cardiac-glycoside compounds with poisoning risk if ingested in quantity.",
+              "study_design": "Phytochemistry review",
+              "population": "",
+              "preparation_studied": "Bryophyllum pinnatum / Kalanchoe pinnata",
+              "main_findings": "Bufadienolides documented; cardiac-glycoside poisoning risk.",
+              "limitations": "",
+              "adverse_effects": "Cardiac-glycoside poisoning risk.",
+              "source_ids": ["src-kalanchoe-mdpi-review"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "Contains bufadienolides (cardiac glycosides); poisoning risk if ingested in quantity.",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starr-150326-0110-Kalanchoe_pinnata-in_pot-Comodore_Ave_Residences_Sand_Island-Midway_Atoll_(24635834884).jpg?width=1280",
+          "caption": "Bryophyllum pinnatum (syn. Kalanchoe pinnata), wonder-of-the-world / leaf of life",
+          "attribution": "Photo: Forest and Kim Starr, Wikimedia Commons",
+          "license": "CC BY 3.0 US",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Starr-150326-0110-Kalanchoe_pinnata-in_pot-Comodore_Ave_Residences_Sand_Island-Midway_Atoll_(24635834884).jpg"
+        }
+      ]
+    },
+    {
+      "id": "passionflower",
+      "slug": "passionflower",
+      "common_name": "Passionflower",
+      "scientific_name": "Passiflora edulis",
+      "scientific_name_authorship": "Sims",
+      "family": "Passifloraceae",
+      "featured": false,
+      "reviewer_status": "draft",
+      "last_reviewed": "2026-10-14",
+      "botanical_description": "",
+      "identification": "",
+      "parts_used": ["Leaves", "Fruit"],
+      "constituents": [],
+      "cultural_background": "",
+      "traditional_use_summary": "Passion fruit leaf documented in Trinidad and Tobago for high blood pressure; Brazilian tradition and a mouse study point to calming effects.",
+      "disambiguation_note": "Passionflower here is Passiflora edulis Sims, the species documented in the Trinidad TRAMIL survey ('Passion fruit', HBP, 1 cite). P. incarnata was rejected: it is native only to the southeastern USA with no Caribbean distribution on POWO. P. quadrangularis ('Barbadine', HBP, 9 cites in the same survey) is a related but distinct species not covered by this record.",
+      "names": [
+        { "name": "Passion fruit", "name_type": "regional", "region": "Trinidad and Tobago", "notes": "Clement et al. 2015 (TRAMIL Trinidad and Tobago survey, as Passiflora edulis)" }
+      ],
+      "distribution": [
+        { "country": "Brazil", "status": "native", "note": "POWO native range" },
+        { "country": "Jamaica", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Trinidad and Tobago", "status": "introduced", "note": "POWO introduced range; documented use" },
+        { "country": "Cuba", "status": "introduced", "note": "POWO introduced range" },
+        { "country": "Dominican Republic", "status": "introduced", "note": "POWO introduced range" }
+      ],
+      "traditional_uses": [
+        {
+          "use": "High blood pressure (HBP)",
+          "countries": ["Trinidad and Tobago"],
+          "preparation": "",
+          "source_ids": ["src-tramil-trinidad-2015"]
+        }
+      ],
+      "claims": [
+        {
+          "claim": "Passionflower leaf has calming / anxiolytic effects",
+          "assessments": [
+            {
+              "category": "preliminary",
+              "summary": "Aqueous P. edulis leaf extract showed anxiolytic and antidepressant-like effects in mice; traditional Brazilian use for anxiety and insomnia is noted. No human trials retrieved.",
+              "study_design": "Animal study (mice)",
+              "population": "Mice",
+              "preparation_studied": "Aqueous Passiflora edulis leaf extract",
+              "main_findings": "Anxiolytic and antidepressant-like effects in mice.",
+              "limitations": "Animal evidence only; no human data.",
+              "adverse_effects": "",
+              "source_ids": ["src-passiflora-scielo-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            },
+            {
+              "category": "traditional_use_documented",
+              "summary": "HBP use documented in the Trinidad and Tobago TRAMIL survey (1 citation); Brazilian traditional use for anxiety/insomnia noted in the pharmacological literature.",
+              "study_design": "Ethnobotanical household survey (TRAMIL methodology)",
+              "population": "450 households, Trinidad and Tobago",
+              "preparation_studied": "",
+              "main_findings": "Passion fruit/P. edulis cited once for HBP.",
+              "limitations": "Single citation; survey data document use, not efficacy.",
+              "adverse_effects": "",
+              "source_ids": ["src-tramil-trinidad-2015", "src-passiflora-scielo-2015"],
+              "reviewer_status": "verified",
+              "last_reviewed": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "safety": {
+        "summary": "",
+        "side_effects": "",
+        "interactions": "",
+        "pregnancy": "",
+        "children": "",
+        "contraindications": ""
+      },
+      "images": []
+    }
+  ]
+}
