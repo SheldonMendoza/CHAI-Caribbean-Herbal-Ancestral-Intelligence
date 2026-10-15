@@ -18,9 +18,7 @@ binding = "AI"
 [[d1_databases]]
 binding = "DB"
 database_name = "chai-db"
-# PENDING DEPLOYMENT STEP: the D1 database does not exist yet. On a connected
-# machine, create it with `wrangler d1 create chai-db` and replace this value
-# with the real database id. Do NOT attempt creation from this VM (no auth).
-database_id = "REPLACE_ME"
+# D1 database created 2026-10-14 via the Cloudflare dashboard.
+database_id = "b917a21c-f53c-4611-b24d-36711ac443a9"
 # migrations_dir defaults to ./migrations, which holds 0001_init.sql (schema)
-# and 0002_seed.sql (generated from data/seed-plants.json).
+# and 0002_seed.sql (generated from data/seed-plants.json). Both applied.
