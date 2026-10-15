@@ -1,0 +1,26 @@
+# CHAI — Cloudflare Worker config (Phase 1).
+# Phase 1 is NOT deployed; this file documents the deployment target.
+# Zero budget: free-tier Workers + D1 + Workers AI only.
+
+name = "chai-api"
+compatibility_date = "2026-10-14"
+
+# Local dev entry point (matches worker/src/index.ts default export).
+main = "worker/src/index.ts"
+
+# Workers AI binding — ALREADY ENABLED on the user's Cloudflare account
+# (verified 2026-10-14), so Phase 3 needs no enable step. Declared here in
+# Phase 1 but UNUSED: the Phase 1 worker never touches env.AI, makes no model
+# calls, and stores no secrets.
+[ai]
+binding = "AI"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "chai-db"
+# PENDING DEPLOYMENT STEP: the D1 database does not exist yet. On a connected
+# machine, create it with `wrangler d1 create chai-db` and replace this value
+# with the real database id. Do NOT attempt creation from this VM (no auth).
+database_id = "REPLACE_ME"
+# migrations_dir defaults to ./migrations, which holds 0001_init.sql (schema)
+# and 0002_seed.sql (generated from data/seed-plants.json).
