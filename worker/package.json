@@ -1,0 +1,1 @@
+{"description":"CHAI (Caribbean Herbal Ancestral Intelligence) — Phase 1 read-only Cloudflare Worker API","devDependencies":{"@types/node":"^22.13.0","typescript":"^5.7.3","vitest":"^3.2.4"},"name":"chai-api","private":true,"scripts":{"build":"tsc","test":"vitest run","typecheck":"tsc --noEmit"},"type":"module","version":"0.1.0"}
